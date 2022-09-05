@@ -1,2 +1,2 @@
 # tictactoe-minimax
-A tic tac toe minimax bot
+A simple tictactoe bot using the minimax algorithm
